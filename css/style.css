@@ -1,0 +1,38 @@
+body{
+  background-color:#EAF6F6;
+}
+h1{
+  color: #009DAE;
+  text-align: center;
+  text-indent: inherit;
+  font-size: 70px;
+  font-style: italic;
+  }
+h2{
+  color:#009DAE;
+  font-size: 30px;
+}
+h3{
+  color:#009DAE;
+  font-size: 30px;
+}
+
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+p{
+  font-size: 20px;
+}
+li{
+  font-size: 20px;
+}
+th{
+  font-size: 20px;
+}
+td{
+  font-size: 20px;
+}
